@@ -107,6 +107,5 @@ Contributions are welcome! Follow these steps to contribute:
 
 - **Daeyeop Kim**Passionate about algorithms and solving challenging problems.
 
----
 
 Feel free to modify as per your needs. Does this structure work for you?
