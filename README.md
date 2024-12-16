@@ -2,7 +2,7 @@
 
 Welcome to the **Algorithm Repository**! This repository is a collection of various algorithmic challenges and problem-solving exercises, organized into categories for easy navigation and access.
 
----
+
 
 ## 📁 **Contents**
 
@@ -53,14 +53,12 @@ The problems are grouped into the following categories:
 - **점의 위치**: Determine point location.
 - **각도기**: Angle calculation.
 
----
 
 ## 🛠️ **Tools & Languages Used**
 
 - **Languages**: Python, SQL.
 - **Tools**: Jupyter Notebook, Visual Studio Code.
 
----
 
 ## 🚀 **Getting Started**
 
@@ -72,7 +70,6 @@ The problems are grouped into the following categories:
     
 2. Navigate to the folder and explore the categories.
 
----
 
 ## 💡 **Contributing**
 
@@ -99,15 +96,12 @@ Contributions are welcome! Follow these steps to contribute:
     
 5. Open a Pull Request.
 
----
 
 ## 📚 **Learning Resources**
 
 - [Programmers](https://programmers.co.kr/)
 - [LeetCode](https://leetcode.com/)
 - [Baekjoon Online Judge](https://www.acmicpc.net/)
-
----
 
 ## 👤 **Author**
 
